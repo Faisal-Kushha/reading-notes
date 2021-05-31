@@ -21,9 +21,7 @@
 In studies that examine mindset, participants are given statements such as: “You have a certain amount of intelligence, and you really can’t do much to change it.” Participants who disagree with such statements are considered to have more of a growth mindset. However, agreeing with such a statement would mean that the participant has more of a fixed mindset.
 
  
- 
- 
- #### I'm trying to follow the Growth Mindset approach by:
+### I'm trying to follow the Growth Mindset approach by:
  * Get inspired from others success stories.
  * Accept the criticism and learn from my mistakes.
  * Make an effort by working as hard as I can.
