@@ -23,7 +23,7 @@
 > Quoting text
 
 + `[]()` : You can create an inline link by wrapping link text in brackets [ ], and then wrapping the URL in parentheses ( ).
-[GitHub](www.github.com)
+[GitHub emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
 
 + `+` `*` `-` : Creating unordered list by using one of these symbols 
     + One
