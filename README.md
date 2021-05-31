@@ -17,7 +17,7 @@
  ![Alternative text describing the image](https://lirp.cdn-website.com/069d5d93/dms3rep/multi/opt/fixed-960w.png)
  
  
- ### The way Growth Mindset Works Based on a studies published on [www.psychologytoday.com](https://www.psychologytoday.com/us/basics/growth-mindset)
+### The way Growth Mindset Works Based on a studies published on [www.psychologytoday.com](https://www.psychologytoday.com/us/basics/growth-mindset)
 In studies that examine mindset, participants are given statements such as: “You have a certain amount of intelligence, and you really can’t do much to change it.” Participants who disagree with such statements are considered to have more of a growth mindset. However, agreeing with such a statement would mean that the participant has more of a fixed mindset.
 
  
