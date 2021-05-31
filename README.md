@@ -1,4 +1,6 @@
-##### My Name is Faisal Kushha, I received my master's degree in August 2015 from University of Jordan in Public Administration, I have a working experience in "Open-source Intelligence". And finally I found my passion through Software Development. I will dicuss Mindset with a focus on growth mindset.
+##### My Name is Faisal Kushha, I received my master's degree in August 2015 from University of Jordan in Public Administration, I have a working experience in "Open-source Intelligence". And finally I found my passion through Software Development. [www.github.com](https://github.com/Faisal-Kushha)
+
+#### I will dicuss Mindset with a focus on growth mindset.
 
 
 # Mindset
