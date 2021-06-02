@@ -19,8 +19,8 @@
 | 5. Null : Represents unknown values      |
 
 
-### - JavaScript Operators are symbols that are used to perform operations and here are some of these
- types:
+### - JavaScript Operators are symbols that are used to perform operations and here are some of these types:
+
 
 |  Arithmetic Operators      |
 | -------------- |
