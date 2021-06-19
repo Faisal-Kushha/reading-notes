@@ -3,7 +3,7 @@
 
 Please follow up my work below:
 
-| Table of Contents       |
+| Code 102 Reading Notes       |
 | -------------- |
 | 1. [Mindset](Mindset) | 
 | 2. [Markdown](Markdown)   |
@@ -13,3 +13,22 @@ Please follow up my work below:
 | 6. [Operators&Loops](Operators&Loops)      |
 | 7. [CSS](CSS)      |
 | 8. [JavaScriptFunction](JavaScriptFunction)     |
+
+
+| Code 201 Reading Notes       |
+| -------------- |
+| 1. [Class-01](Class-01) |
+| 2.    |
+| 3.    |
+| 4. |
+| 5.       |
+| 6.       |
+| 7.       |
+| 8.      |
+| 9.  | 
+| 10.    |
+| 11.    |
+| 12. |
+| 13.       |
+| 14.       |
+| 15.       |
