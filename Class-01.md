@@ -1,4 +1,6 @@
-# HTML
+# Class-01
+
+## HTML
 #### HTML stand for (HyperText Markup Language) and it is the standard markup language for Web pages structure. Along side HTML there are other languages used to launch a completed web page's like
 * `CSS` for appearance/presentation 
 * `JavaScript` for functionality/behavior.
@@ -45,7 +47,7 @@
 | 5. `<figure> <figcaption>`      |
 
 ------------------------
-# JavaScript
+## JavaScript
 
 ![JavaScript](https://cs.wellesley.edu/~cs110/lectures/L09/images/js_model.png)
 
