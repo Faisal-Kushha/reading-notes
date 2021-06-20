@@ -19,7 +19,7 @@ Please follow up my work below:
 | Code 201 Reading Notes       |
 | -------------- |
 | 1. [Class-01](Class-01) |
-| 2.    |
+| 2. [Class-02](Class-02)   |
 | 3.    |
 | 4. |
 | 5.       |
