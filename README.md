@@ -20,7 +20,7 @@ Please follow up my work below:
 | -------------- |
 | 1. [Class-01](Class-01) |
 | 2. [Class-02](Class-02)   |
-| 3.    |
+| 3. [Class-03](Class-03)   |
 | 4. |
 | 5.       |
 | 6.       |
