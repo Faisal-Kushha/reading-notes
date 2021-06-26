@@ -21,9 +21,9 @@ Please follow up my work below:
 | 1. [Class-01](Class-01) |
 | 2. [Class-02](Class-02)   |
 | 3. [Class-03](Class-03)   |
-| 4. [Class-04](Calss-04) |
-| 5.       |
-| 6.       |
+| 4. [Class-04](Class-04) |
+| 5. [Class-05](Class-05)      |
+| 6. [Class-06](Class-06)      |
 | 7.       |
 | 8.      |
 | 9.  | 
