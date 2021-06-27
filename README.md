@@ -24,7 +24,7 @@ Please follow up my work below:
 | 4. [Class-04](Class-04) |
 | 5. [Class-05](Class-05)      |
 | 6. [Class-06](Class-06)      |
-| 7.       |
+| 7. [Class-07](Class-07)      |
 | 8.      |
 | 9.  | 
 | 10.    |
