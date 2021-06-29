@@ -26,7 +26,7 @@ Please follow up my work below:
 | 6. [Class-06](Class-06)      |
 | 7. [Class-07](Class-07)      |
 | 8. [Class-08](Class-08)     |
-| 9.  | 
+| 9. [Class-09](Class-09) | 
 | 10.    |
 | 11.    |
 | 12. |
