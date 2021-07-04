@@ -29,7 +29,7 @@ Please follow up my work below:
 | 9. [Class-09](Class-09) | 
 | 10. [Class-10](Class-10)   |
 | 11. [Class-11](Class-11)   |
-| 12. |
+| 12. [Class-12](Class-12)|
 | 13.       |
 | 14.       |
 | 15.       |
