@@ -14,7 +14,7 @@ Please follow up my work below:
 | 7. [CSS](CSS)      |
 | 8. [JavaScriptFunction](JavaScriptFunction)     |
 
-
+------
 
 | Code 201 Reading Notes       |
 | -------------- |
@@ -34,3 +34,22 @@ Please follow up my work below:
 | 14. [Class-14a](Class-14a)      |
 | 15. [Class-14b](Class-14b)      |
 
+------
+
+| Code 201 Reading Notes       |
+| -------------- |
+| 1. [Class-01](301class01) |
+| 2. [Class-02]()   |
+| 3. [Class-03]()   |
+| 4. [Class-04]() |
+| 5. [Class-05]()      |
+| 6. [Class-06]()      |
+| 7. [Class-07]()      |
+| 8. [Class-08]()     |
+| 9. [Class-09]() | 
+| 10. [Class-10]()   |
+| 11. [Class-11]()   |
+| 12. [Class-12]()|
+| 13. [Class-13]()      |
+| 14. [Class-14]()      |
+| 15. [Class-15]()      |
