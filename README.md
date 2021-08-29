@@ -39,7 +39,7 @@ Please follow up my work below:
 | Code 301 Reading Notes       |
 | -------------- |
 | 1. [Class-01](301class01) |
-| 2. [Class-02]()   |
+| 2. [Class-02](301class02)   |
 | 3. [Class-03]()   |
 | 4. [Class-04]() |
 | 5. [Class-05]()      |
