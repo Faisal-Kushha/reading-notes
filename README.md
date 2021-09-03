@@ -44,7 +44,7 @@ Please follow up my work below:
 | 3. [Class-03](301class-03) |
 | 4. [Class-04](301class-04) |
 | 5. [Class-05](301class-05) |
-| 6. [Class-06]()            |
+| 6. [Class-06](301class-06) |
 | 7. [Class-07]()            |
 | 8. [Class-08]()            |
 | 9. [Class-09]()            |
