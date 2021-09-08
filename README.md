@@ -37,20 +37,20 @@ Please follow up my work below:
 
 ---
 
-| Code 301 Reading Notes     |
-| -------------------------- |
-| 1. [Class-01](301class01)  |
-| 2. [Class-02](301class02)  |
-| 3. [Class-03](301class-03) |
-| 4. [Class-04](301class-04) |
-| 5. [Class-05](301class-05) |
-| 6. [Class-06](301class-06) |
-| 7. [Class-07](301class-07) |
-| 8. [Class-08](301class-08) |
-| 9. [Class-09](301class-09) |
-| 10. [Class-10]()           |
-| 11. [Class-11]()           |
-| 12. [Class-12]()           |
-| 13. [Class-13]()           |
-| 14. [Class-14]()           |
-| 15. [Class-15]()           |
+| Code 301 Reading Notes      |
+| --------------------------- |
+| 1. [Class-01](301class01)   |
+| 2. [Class-02](301class02)   |
+| 3. [Class-03](301class-03)  |
+| 4. [Class-04](301class-04)  |
+| 5. [Class-05](301class-05)  |
+| 6. [Class-06](301class-06)  |
+| 7. [Class-07](301class-07)  |
+| 8. [Class-08](301class-08)  |
+| 9. [Class-09](301class-09)  |
+| 10. [Class-10](301class-10) |
+| 11. [Class-11]()            |
+| 12. [Class-12]()            |
+| 13. [Class-13]()            |
+| 14. [Class-14]()            |
+| 15. [Class-15]()            |
