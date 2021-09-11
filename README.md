@@ -50,7 +50,7 @@ Please follow up my work below:
 | 9. [Class-09](301class-09)  |
 | 10. [Class-10](301class-10) |
 | 11. [Class-11](301class-11) |
-| 12. [Class-12]()            |
-| 13. [Class-13]()            |
+| 12. [Class-12](301class-12) |
+| 13. [Class-13](301class-13) |
 | 14. [Class-14]()            |
 | 15. [Class-15]()            |
