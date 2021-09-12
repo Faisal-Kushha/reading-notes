@@ -52,5 +52,5 @@ Please follow up my work below:
 | 11. [Class-11](301class-11) |
 | 12. [Class-12](301class-12) |
 | 13. [Class-13](301class-13) |
-| 14. [Class-14]()            |
+| 14. [Class-14](301class-14) |
 | 15. [Class-15]()            |
