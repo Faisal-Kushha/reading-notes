@@ -62,7 +62,7 @@ Please follow up my work below:
 | 2. [Class-02](401class02)                |
 | 3. [Class-03](401class03)                |
 | 4. [Class-04](401class04)                |
-| 5. [Class-05]()                          |
+| 5. [Class-05](401class05)                |
 | 6. [Class-06]()                          |
 | 7. [Class-07]()                          |
 | 8. [Class-08]()                          |
