@@ -68,7 +68,7 @@ Please follow up my work below:
 | 8. [Class-08](401class08)                |
 | 9. [Class-09](401class09)                |
 | 10. [Class-10](401class10)               |
-| 11. [Class-11]()                         |
+| 11. [Class-11](401class11)               |
 | 12. [Class-12]()                         |
 | 13. [Class-13]()                         |
 | 14. [Class-14]()                         |
