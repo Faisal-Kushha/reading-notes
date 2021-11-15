@@ -79,7 +79,7 @@ Please follow up my work below:
 | 19. [Class-19](401class19)               |
 | 20. [Class-26](401class26)               |
 | 21. [Class-27](401class27)               |
-| 22. [Class-22]()                         |
+| 22. [Class-28](401class28)               |
 | 23. [Class-23]()                         |
 | 24. [Class-24]()                         |
 | 25. [Class-25]()                         |
