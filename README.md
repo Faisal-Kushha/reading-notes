@@ -82,7 +82,7 @@ Please follow up my work below:
 | 22. [Class-28](401class28)               |
 | 23. [Class-29](401class29)               |
 | 24. [Class-30](401class30)               |
-| 25. [Class-25]()                         |
+| 25. [Class-31](401class31)               |
 | 26. [Class-26]()                         |
 | 27. [Class-27]()                         |
 | 28. [Class-28]()                         |
