@@ -89,7 +89,7 @@ Please follow up my work below:
 | 29. [Class-35](401class35)               |
 | 30. [Class-36](401class36)               |
 | 31. [Class-37](401class37)               |
-| 32. [Class-]()                           |
+| 32. [Class-38](401class38)               |
 | 33. [Class-]()                           |
 | 34. [Class-]()                           |
 | 35. [Class-]()                           |
