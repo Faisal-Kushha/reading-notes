@@ -92,8 +92,8 @@ Please follow up my work below:
 | 32. [Class-38](401class38)               |
 | 33. [Class-39](401class39)               |
 | 34. [Class-41](401class41)               |
-| 35. [Class-]()                           |
-| 36. [Class-]()                           |
+| 35. [Class-42a](401class42a)             |
+| 36. [Class-42b](401class42b)             |
 | 37. [Class-]()                           |
 | 38. [Class-]()                           |
 | 39. [Class-]()                           |
