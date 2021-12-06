@@ -94,10 +94,4 @@ Please follow up my work below:
 | 34. [Class-41](401class41)               |
 | 35. [Class-42a](401class42a)             |
 | 36. [Class-42b](401class42b)             |
-| 37. [Class-]()                           |
-| 38. [Class-]()                           |
-| 39. [Class-]()                           |
-| 40. [Class-]()                           |
-| 41. [Class-]()                           |
-| 42. [Class-]()                           |
-| 43. [Class-]()                           |
+| 37. [Class-43](401class43)               |
